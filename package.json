@@ -1,0 +1,31 @@
+{
+  "scripts": {
+    "start": "gulp",
+    "dev": "gulp",
+    "prod": "gulp prod"
+  },
+  "author": {
+    "name": "Patrick Dureza",
+    "email": "patrick@tribegroup.co"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^2.1.0",
+    "autoprefixer": "^9.1.2",
+    "cssnano": "^4.0.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-include": "^2.3.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-notify": "^3.2.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.1",
+    "gulp-util": "^3.0.8",
+    "postcss-normalize": "^6.0.0",
+    "postcss-object-fit-images": "^1.1.2",
+    "pump": "^3.0.0",
+    "vinyl-ftp": "^0.6.1"
+  }
+}
